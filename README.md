@@ -1,10 +1,10 @@
 # Naomi-Obando
 
-#Titulo 1
-##Titulo 2
-###Titulo 3
+# Titulo 1
+## Titulo 2
+### Titulo 3
 
-#Bienvenido a mi pagina 
+# Bienvenido a mi pagina 
 <p align="center">
 
   <a href="http://linkedin.com/in/naomi-obando-877ab1218/" target="_blank">
@@ -22,9 +22,9 @@
 </p>
 
 
-##¿Quién soy?
+## ¿Quién soy?
 Soy estudiante de ingeniería de tecnologías de la información
 Estudio en la universidad de las Fuerzas Armadas ESPE
 
-###Gracias por visitar mi sitio 
+### Gracias por visitar mi sitio 
 
