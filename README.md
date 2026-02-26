@@ -1,10 +1,6 @@
-# Naomi-Obando
+# Naomi Obando
 
-# Titulo 1
-## Titulo 2
-### Titulo 3
-
-# Bienvenido a mi pagina 
+## Bienvenido a mi página 
 <p align="center">
 
   <a href="http://linkedin.com/in/naomi-obando-877ab1218/" target="_blank">
@@ -23,8 +19,9 @@
 
 
 ## ¿Quién soy?
-Soy estudiante de ingeniería de tecnologías de la información
-Estudio en la universidad de las Fuerzas Armadas ESPE
+Soy Naomi Obando, estudiante de Tecnologías de la Información en la Universidad de las Fuerzas Armadas ESPE (5to semestre).
+He trabajado con Java, HTML, Python y PHP a nivel básico y estoy buscando ganar experiencia tanto en backend como en frontend, así como en bases de datos.
+Me apasiona aprender, experimentar con nuevas tecnologías y convertir ideas en soluciones reales.
 
-### Gracias por visitar mi sitio 
+### Gracias por visitar mi sitio
 
